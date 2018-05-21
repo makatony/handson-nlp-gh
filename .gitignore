@@ -3,7 +3,9 @@
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-desktop.ini
+*desktop.ini
+Essense of a speech with NLTK.ipynb
+Analyzing Emails with SpaCy.ipynb
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
